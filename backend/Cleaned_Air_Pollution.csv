@@ -1,0 +1,366 @@
+City ,Event,Age_group,Parent,Child_age_group,Feeling_today,Sleep_quality,Itchy_eyes,Sore_throat,Cough,Skin_irritation_rash,Diarrhea_or_vomiting,Heat_exhaustion,Respiratory_difficulties,Low_mood,Anxiety_stress,Concentrating at work or school,Headache,Physical_activity,Late_for_school_or_work,Missed_school_or_work ,Missed_meeting_or_interview,Missed_health_care_appointment,Missed_meeting_up_with_friends_family,Not_have_enough_food ,No_access_clean_drinking_water,Need_for_more_family_assistance ,High_air_pollution_concern,community_preparedness_satisfaction,town_city_health_sustainable_improvement,Gender,Monthly_income
+Delhi,High Air Pollution,20 to 24,No,,Good,Bad,No,No,No,No,No,No,No,No,No,No,Yes,0 Minutes,No,No,No,No,No,No,No,No,0,Very Satisfied,,Female,<$100
+Delhi,High Air Pollution,25 to 34,No,,Good,Bad,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,Yes,No,Yes,No,No,No,No,No,9,Somewhat Dissatisfied,,Female,I don't know
+Delhi,High Air Pollution,35 to 44,Yes,Toddler (1 to 4),Bad,Bad,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,No,No,No,8,Neutral,,Female,I don't know
+Delhi,High Air Pollution,35 to 44,Yes,Child (5 to 9),Bad,Bad,No,No,No,No,No,No,No,No,No,No,No,60+ Minutes,No,No,No,No,No,No,No,No,8,Somewhat Dissatisfied,,Other/ Prefer not to say,I don't know
+Delhi,High Air Pollution,25 to 34,Yes,Toddler (1 to 4),Very Good,Very Good,Yes,No,Yes,No,No,No,No,Yes,No,No,No,0 Minutes,Yes,No,Yes,No,Yes,Yes,No,Yes,5,Somewhat Satisfied,,Male,<$100
+Delhi,High Air Pollution,25 to 34,Yes,Pre-Teen (10 to 14),Very Good,Very Bad,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,Yes,Yes,No,No,No,No,Yes,Yes,1,Very Dissatisfied,,Male,<$100
+Delhi,High Air Pollution,25 to 34,Yes,Pre-Teen (10 to 14),Very Good,Very Bad,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,Yes,Yes,No,No,No,No,Yes,Yes,1,Very Dissatisfied,,Male,<$100
+Delhi,High Air Pollution,10 to 14,No,,Very Good,Very Bad,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,Yes,Yes,No,No,No,No,Yes,Yes,1,Very Dissatisfied,,Male,<$100
+Delhi,High Air Pollution,45 to 54,Yes,Pre-Teen (10 to 14),Very Good,Very Bad,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,Yes,Yes,No,No,No,No,Yes,Yes,1,Very Dissatisfied,,Male,$4000+
+Delhi,High Air Pollution,35 to 44,Yes,Pre-Teen (10 to 14),Very Good,Ok,No,No,No,No,No,No,No,No,No,Yes,Yes,0 Minutes,No,No,No,No,No,No,No,No,0,Very Satisfied,,Male,$4000+
+Delhi,High Air Pollution,45 to 54,Yes,Pre-Teen (10 to 14),Very Good,Very Bad,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,Yes,Yes,No,No,No,No,Yes,Yes,1,Very Dissatisfied,,Male,<$100
+Delhi,High Air Pollution,10 to 14,Yes,Pre-Teen (10 to 14),Very Good,Very Bad,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,Yes,Yes,No,No,No,No,Yes,Yes,1,Very Dissatisfied,,Male,<$100
+Delhi,High Air Pollution,15 to 19,No,,Very Good,Bad,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,31-45 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Very Satisfied,,Male,<$100
+Delhi,High Air Pollution,20 to 24,No,,Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,60+ Minutes,No,No,No,No,No,No,No,No,10,Very Satisfied,,Male,$100 to $499
+Delhi,High Air Pollution,45 to 54,Yes,Pre-Teen (10 to 14),Very Good,Very Bad,No,No,Yes,No,No,No,No,No,No,No,Yes,0 Minutes,No,No,No,No,No,No,No,Yes,0,Somewhat Satisfied,,Other/ Prefer not to say,$4000+
+Delhi,High Air Pollution,10 to 14,No,,Very Good,Very Bad,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,Yes,Yes,No,No,No,No,Yes,Yes,1,Very Dissatisfied,,Male,<$100
+Delhi,High Air Pollution,35 to 44,Yes,Pre-Teen (10 to 14),Very Good,Very Bad,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,Yes,Yes,No,No,No,No,Yes,Yes,1,Very Dissatisfied,,Male,<$100
+Delhi,High Air Pollution,20 to 24,Yes,Teen (15 to 17),Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,0,Very Satisfied,,Female,I don't know
+Delhi,High Air Pollution,25 to 34,Yes,Toddler (1 to 4),Very Good,Ok,No,No,No,No,No,No,No,No,No,No,No,0 Minutes,No,No,No,No,No,No,No,No,0,Very Satisfied,Nothing will happen/Nothing wil be done (Bad leaders),Male,I don't know
+Delhi,High Air Pollution,25 to 34,Yes,Toddler (1 to 4),Very Good,Ok,No,No,No,No,No,No,No,No,No,No,No,0 Minutes,No,No,No,No,No,No,No,No,0,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Very Good,Ok,No,No,No,No,No,No,No,No,No,No,No,0 Minutes,No,No,No,No,No,No,No,No,0,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,20 to 24,Yes,Teen (15 to 17),Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Somewhat Satisfied,,Female,$100 to $499
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Somewhat Satisfied,,Female,$100 to $499
+Delhi,High Air Pollution,5 to 9,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Somewhat Satisfied,,Female,$100 to $499
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Somewhat Satisfied,,Female,$100 to $499
+Delhi,High Air Pollution,15 to 19,Yes,Toddler (1 to 4),Very Good,Good,No,No,No,No,No,Yes,No,No,No,Yes,No,60+ Minutes,No,No,No,Yes,Yes,No,Yes,No,10,Somewhat Satisfied,,Male,$4000+
+Delhi,High Air Pollution,55+,Yes,Teen (15 to 17),Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,35 to 44,Yes,Teen (15 to 17),Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,25 to 34,Yes,Pre-Teen (10 to 14),Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,5 to 9,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,45 to 54,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Bad,Ok,No,No,No,No,No,No,No,No,No,No,No,0 Minutes,No,No,No,No,No,No,No,No,0,Very Dissatisfied,Tree plantation,Other/ Prefer not to say,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Bad,Ok,No,No,No,No,No,No,No,No,No,No,No,0 Minutes,No,No,No,No,No,No,No,No,1,Very Dissatisfied,More walking,Other/ Prefer not to say,I don't know
+Delhi,High Air Pollution,15 to 19,No,,Bad,Ok,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,2,Very Dissatisfied,,Other/ Prefer not to say,I don't know
+Delhi,High Air Pollution,15 to 19,No,,Bad,Ok,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,3,Very Dissatisfied,,Other/ Prefer not to say,I don't know
+Delhi,High Air Pollution,35 to 44,Yes,Child (5 to 9),Very Good,Bad,No,No,No,No,No,No,No,No,No,No,No,0 Minutes,No,No,No,No,No,No,No,No,0,Very Dissatisfied,,Male,$4000+
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,25 to 34,No,,Ok,Very Good,No,Yes,No,No,No,No,No,No,No,No,No,16-30 Minutes,Yes,No,No,No,No,No,No,No,0,Very Satisfied,,Male,$1500 to $4000
+Delhi,High Air Pollution,45 to 54,Yes,Teen (15 to 17),Very Good,Very Bad,No,No,No,No,No,No,No,No,No,No,No,16-30 Minutes,No,No,No,No,No,No,No,Yes,5,Somewhat Satisfied,,Male,$100 to $499
+Delhi,High Air Pollution,55+,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,55+,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,45 to 54,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,45 to 54,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,15 to 19,Yes,Infant (0),Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,60+ Minutes,No,No,No,No,No,No,No,No,1,Somewhat Satisfied,,Male,<$100
+Delhi,High Air Pollution,5 to 9,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,15 to 19,No,,Very Good,Very Bad,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,3,Very Satisfied,Urban agriculture,Male,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Very Good,Ok,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,16-30 Minutes,Yes,No,Yes,No,Yes,Yes,Yes,No,1,Somewhat Satisfied,Tree plantation,Female,$4000+
+Delhi,High Air Pollution,5 to 9,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,25 to 34,Yes,Toddler (1 to 4),Ok,Ok,No,No,No,No,No,No,No,No,No,No,No,0 Minutes,No,No,No,No,No,No,No,No,0,Neutral,,Male,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,25 to 34,Yes,Infant (0),Very Good,Ok,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,No,No,Yes,5,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,20 to 24,Yes,Infant (0),Very Good,Good,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,0 Minutes,No,No,Yes,Yes,Yes,No,Yes,No,0,Very Satisfied,Safe roads,Female,I don't know
+Delhi,High Air Pollution,15 to 19,Yes,Teen (15 to 17),Very Good,Very Bad,No,No,No,No,No,No,No,No,No,No,No,60+ Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Very Satisfied,,Male,<$100
+Delhi,High Air Pollution,10 to 14,Yes,Toddler (1 to 4),Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,0 Minutes,No,No,No,No,No,No,No,No,1,Very Satisfied,,Male,<$100
+Delhi,High Air Pollution,10 to 14,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,35 to 44,Yes,Toddler (1 to 4),Very Good,Very Bad,No,No,No,No,No,No,No,No,No,No,No,60+ Minutes,No,No,No,No,No,No,No,No,4,Very Satisfied,,Male,<$100
+Delhi,High Air Pollution,15 to 19,Yes,Teen (15 to 17),Very Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Male,<$100
+Delhi,High Air Pollution,15 to 19,No,,Very Good,Bad,No,No,No,No,No,No,No,No,No,No,No,60+ Minutes,No,No,No,No,No,No,No,No,3,Neutral,,Female,$1500 to $4000
+Delhi,High Air Pollution,15 to 19,Yes,Toddler (1 to 4),Very Bad,Very Bad,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,1,Very Dissatisfied,,Male,I don't know
+Delhi,High Air Pollution,35 to 44,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,55+,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,25 to 34,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,35 to 44,Yes,Teen (15 to 17),Very Good,Very Bad,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,0,Very Satisfied,Plants,Male,I don't know
+Delhi,High Air Pollution,10 to 14,Yes,Pre-Teen (10 to 14),Very Good,Ok,No,No,No,No,No,No,No,No,No,No,No,60+ Minutes,No,No,No,No,No,No,No,No,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,45 to 54,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,55+,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,55+,Yes,Teen (15 to 17),Good,Ok,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Neutral,Pray to shiva,Male,<$100
+Delhi,High Air Pollution,0 to 4,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Very Good,Bad,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,0 Minutes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,0,Very Satisfied,,Female,<$100
+Delhi,High Air Pollution,45 to 54,Yes,Infant (0),Very Good,Very Good,Yes,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,10,Very Dissatisfied,,Male,$4000+
+Delhi,High Air Pollution,35 to 44,Yes,Pre-Teen (10 to 14),Very Good,Bad,No,No,No,No,No,No,No,No,No,No,No,0 Minutes,No,No,No,No,No,No,No,No,0,Very Satisfied,Focus on cleanliness,Male,$1500 to $4000
+Delhi,High Air Pollution,35 to 44,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,45 to 54,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,25 to 34,Yes,Teen (15 to 17),Bad,Very Bad,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Very Satisfied,,Male,<$100
+Delhi,High Air Pollution,45 to 54,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,20 to 24,No,,Ok,Ok,No,No,No,No,No,No,No,No,No,No,No,31-45 Minutes,No,No,No,No,No,No,No,No,0,Somewhat Dissatisfied,,Other/ Prefer not to say,$500 to $1499
+Delhi,High Air Pollution,15 to 19,No,,Good,Ok,No,No,No,No,No,No,No,Yes,Yes,Yes,No,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Somewhat Dissatisfied,,Male,I don't know
+Delhi,High Air Pollution,35 to 44,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,15 to 19,Yes,Teen (15 to 17),Very Good,Bad,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,0,Very Satisfied,,Female,<$100
+Delhi,High Air Pollution,,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,15 to 19,No,,Bad,Very Bad,No,No,No,No,No,No,No,No,No,No,No,46-60 Minutes,No,No,No,No,No,No,No,No,10,Somewhat Dissatisfied,,Male,<$100
+Delhi,High Air Pollution,25 to 34,Yes,Toddler (1 to 4),Very Good,Good,No,No,No,Yes,No,No,No,No,No,No,No,0 Minutes,No,No,No,No,Yes,No,No,No,0,Very Satisfied,,Male,$4000+
+Delhi,High Air Pollution,25 to 34,No,,Good,Bad,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Very Satisfied,,Male,<$100
+Delhi,High Air Pollution,55+,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,35 to 44,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,20 to 24,Yes,Pre-Teen (10 to 14),Very Good,Ok,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Very Satisfied,,Female,$4000+
+Delhi,High Air Pollution,35 to 44,Yes,Infant (0),Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,20 to 24,Yes,Teen (15 to 17),Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Somewhat Satisfied,,Male,$100 to $499
+Delhi,High Air Pollution,25 to 34,No,,Very Good,Very Good,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,1-15 Minutes,No,No,Yes,No,No,No,No,Yes,10,Very Dissatisfied,,Male,$100 to $499
+Delhi,High Air Pollution,25 to 34,No,,Good,Ok,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,1-15 Minutes,Yes,No,No,No,No,No,No,No,0,Very Satisfied,,Male,$1500 to $4000
+Delhi,High Air Pollution,35 to 44,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,15 to 19,Yes,Infant (0),Very Good,Very Bad,No,No,No,No,No,No,No,No,No,No,No,60+ Minutes,No,No,No,No,No,No,No,No,1,Very Satisfied,,Other/ Prefer not to say,I don't know
+Delhi,High Air Pollution,15 to 19,No,,Good,Ok,No,No,No,No,No,No,No,No,No,No,No,16-30 Minutes,No,No,No,No,No,No,No,No,0,Very Satisfied,,Female,<$100
+Delhi,High Air Pollution,15 to 19,Yes,Teen (15 to 17),Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,0 Minutes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,0,Somewhat Satisfied,,Male,I don't know
+Delhi,High Air Pollution,20 to 24,Yes,Infant (0),Bad,Good,Yes,Yes,No,No,No,No,No,No,No,No,No,0 Minutes,No,No,No,No,No,No,No,No,10,Very Satisfied,,Male,$4000+
+Delhi,High Air Pollution,35 to 44,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,25 to 34,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,25 to 34,Yes,Toddler (1 to 4),Very Good,Very Good,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,10,Very Satisfied,,Male,<$100
+Delhi,High Air Pollution,15 to 19,Yes,Teen (15 to 17),Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,25 to 34,Yes,Child (5 to 9),Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,0 Minutes,No,No,No,No,No,No,No,No,8,Very Dissatisfied,,Male,<$100
+Delhi,High Air Pollution,35 to 44,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,55+,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,45 to 54,No,,Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,25 to 34,Yes,Pre-Teen (10 to 14),Very Good,Very Bad,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Very Good,Very Bad,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,10,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,15 to 19,Yes,Teen (15 to 17),Very Good,Very Good,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,0 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Very Satisfied,,Male,<$100
+Delhi,High Air Pollution,45 to 54,No,,Very Good,Very Good,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,0 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Very Satisfied,,Male,<$100
+Delhi,High Air Pollution,10 to 14,No,,Very Good,Very Good,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,0 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Very Satisfied,,Male,<$100
+Delhi,High Air Pollution,35 to 44,No,,Very Good,Very Good,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,0 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Very Satisfied,,Male,<$100
+Delhi,High Air Pollution,45 to 54,No,,Very Good,Very Good,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,0 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Very Satisfied,,Male,<$100
+Delhi,High Air Pollution,25 to 34,No,,Very Good,Very Good,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,0 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Very Satisfied,,Male,<$100
+Delhi,High Air Pollution,10 to 14,No,,Very Good,Very Good,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,0 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Very Satisfied,,Male,<$100
+Delhi,High Air Pollution,25 to 34,Yes,Toddler (1 to 4),Very Good,Ok,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,1,Very Satisfied,,Female,<$100
+Delhi,High Air Pollution,15 to 19,Yes,Child (5 to 9),Very Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Somewhat Satisfied,,Other/ Prefer not to say,$4000+
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,20 to 24,Yes,Toddler (1 to 4),Good,Ok,No,No,No,No,No,No,No,No,Yes,No,No,16-30 Minutes,Yes,No,No,No,Yes,Yes,No,No,10,Very Satisfied,,Male,<$100
+Delhi,High Air Pollution,55+,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,20 to 24,No,,Very Good,Ok,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Very Dissatisfied,,Male,$500 to $1499
+Delhi,High Air Pollution,25 to 34,Yes,Pre-Teen (10 to 14),Bad,Bad,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Very Satisfied,,Male,<$100
+Delhi,High Air Pollution,45 to 54,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,55+,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,55+,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,15 to 19,Yes,Child (5 to 9),Good,Bad,No,No,No,No,No,No,No,No,No,Yes,No,60+ Minutes,No,No,Yes,No,No,No,No,No,2,Neutral,,Male,I don't know
+Delhi,High Air Pollution,5 to 9,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,Yes,Pre-Teen (10 to 14),Very Good,Ok,No,No,No,No,No,No,No,No,No,No,No,60+ Minutes,No,No,No,No,No,No,No,No,0,Very Satisfied,,Male,<$100
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,20 to 24,Yes,Toddler (1 to 4),Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,0 Minutes,No,No,No,No,No,No,No,No,5,Very Satisfied,,Male,<$100
+Delhi,High Air Pollution,35 to 44,Yes,Pre-Teen (10 to 14),Very Good,Bad,Yes,No,No,No,No,No,No,No,No,No,No,16-30 Minutes,No,No,No,No,No,No,No,No,0,Very Satisfied,,Female,I don't know
+Delhi,High Air Pollution,0 to 4,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,5 to 9,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,25 to 34,Yes,Child (5 to 9),Very Good,Ok,No,No,No,No,No,No,No,No,No,No,No,60+ Minutes,No,No,No,No,No,No,No,No,1,Very Satisfied,,Male,$4000+
+Delhi,High Air Pollution,0 to 4,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,25 to 34,Yes,Pre-Teen (10 to 14),Very Good,Very Bad,No,No,No,No,No,No,No,No,Yes,Yes,No,0 Minutes,No,Yes,No,No,No,No,No,No,0,Somewhat Dissatisfied,,Other/ Prefer not to say,I don't know
+Delhi,High Air Pollution,55+,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,55+,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,25 to 34,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,25 to 34,Yes,Pre-Teen (10 to 14),Very Good,Very Bad,No,No,No,No,No,No,No,No,No,No,No,0 Minutes,No,No,No,No,No,No,No,No,0,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,25 to 34,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,25 to 34,Yes,Infant (0),Ok,Ok,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Neutral,,Other/ Prefer not to say,I don't know
+Delhi,High Air Pollution,0 to 4,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,25 to 34,Yes,Infant (0),Very Good,Very Bad,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,55+,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,15 to 19,Yes,Pre-Teen (10 to 14),Very Good,Bad,No,No,No,No,No,No,No,No,No,No,Yes,0 Minutes,No,Yes,No,No,No,No,No,No,0,Very Satisfied,,Female,<$100
+Delhi,High Air Pollution,25 to 34,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,20 to 24,Yes,Toddler (1 to 4),Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Somewhat Satisfied,,Male,I don't know
+Delhi,High Air Pollution,55+,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,35 to 44,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,5 to 9,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,25 to 34,Yes,Pre-Teen (10 to 14),Very Good,Ok,No,No,No,No,No,No,No,No,No,No,No,46-60 Minutes,No,No,No,No,No,No,No,No,0,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,20 to 24,No,,Very Good,Very Bad,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,No,No,Yes,No,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,45 to 54,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Ok,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,25 to 34,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,0 to 4,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,15 to 19,Yes,Toddler (1 to 4),Very Good,Good,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Neutral,,Male,$500 to $1499
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,0 to 4,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,15 to 19,No,,Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,0 Minutes,No,No,No,No,No,No,No,No,1,Very Satisfied,,Female,<$100
+Delhi,High Air Pollution,10 to 14,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,55+,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,25 to 34,No,,Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Female,I don't know
+Delhi,High Air Pollution,15 to 19,Yes,Toddler (1 to 4),Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Very Satisfied,,Female,I don't know
+Delhi,High Air Pollution,35 to 44,Yes,Child (5 to 9),Very Good,Very Bad,No,No,No,No,No,No,No,No,No,No,No,60+ Minutes,No,No,No,No,No,No,No,No,10,Very Satisfied,,Female,<$100
+Delhi,High Air Pollution,35 to 44,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,High Air Pollution,35 to 44,Yes,Toddler (1 to 4),Very Good,Ok,No,No,No,No,No,No,No,No,No,No,No,60+ Minutes,No,No,No,No,No,No,No,No,0,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,High Air Pollution,15 to 19,Yes,Toddler (1 to 4),Ok,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Very Satisfied,,Male,I don't know
+Delhi,High Air Pollution,15 to 19,No,,Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,No,Yes,No,Yes,No,Yes,No,No,5,Neutral,,Male,<$100
+Delhi,High Air Pollution,20 to 24,Yes,Toddler (1 to 4),Very Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Somewhat Satisfied,,Male,$100 to $499
+Delhi,High Air Pollution,20 to 24,Yes,Toddler (1 to 4),Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Very Satisfied,,Female,<$100
+Delhi,High Air Pollution,25 to 34,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,High Air Pollution,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,High Air Pollution,20 to 24,Yes,Pre-Teen (10 to 14),Ok,Ok,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Very Satisfied,Pray,Male,<$100
+Delhi,High Air Pollution,25 to 34,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,25 to 34,Yes,Teen (15 to 17),Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,46-60 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Very Satisfied,,Male,<$100
+Delhi,Good Air Quality,15 to 19,No,,Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Neutral,,Female,<$100
+Delhi,Good Air Quality,45 to 54,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,25 to 34,No,,Very Bad,Good,Yes,Yes,Yes,No,No,No,No,No,No,No,No,60+ Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Very Satisfied,,Male,I don't know
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,55+,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,45 to 54,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,15 to 19,Yes,Teen (15 to 17),Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Very Satisfied,Pray,Male,$500 to $1499
+Delhi,Good Air Quality,25 to 34,No,,Good,Good,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,5,Somewhat Satisfied,Having a feeding program,Female,I don't know
+Delhi,Good Air Quality,15 to 19,Yes,Toddler (1 to 4),Good,Good,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,60+ Minutes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,0,Somewhat Satisfied,,Male,<$100
+Delhi,Good Air Quality,35 to 44,Yes,Toddler (1 to 4),Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,60+ Minutes,No,No,No,No,No,No,No,No,5,Somewhat Satisfied,,Male,$100 to $499
+Delhi,Good Air Quality,20 to 24,No,,Good,Bad,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,31-45 Minutes,Yes,Yes,No,Yes,No,No,Yes,Yes,1,Somewhat Dissatisfied,,Male,$100 to $499
+Delhi,Good Air Quality,25 to 34,Yes,Pre-Teen (10 to 14),Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,16-30 Minutes,No,No,No,No,No,No,No,No,5,Somewhat Satisfied,,Female,<$100
+Delhi,Good Air Quality,25 to 34,Yes,Pre-Teen (10 to 14),Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,16-30 Minutes,No,No,No,No,No,No,No,No,5,Somewhat Satisfied,,Female,<$100
+Delhi,Good Air Quality,25 to 34,Yes,Teen (15 to 17),Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,No,No,No,No,No,No,No,No,3,Somewhat Satisfied,,Male,$4000+
+Delhi,Good Air Quality,20 to 24,No,,Good,Good,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,1-15 Minutes,No,No,No,No,No,No,No,No,5,Somewhat Satisfied,,Female,I don't know
+Delhi,Good Air Quality,55+,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,45 to 54,Yes,Teen (15 to 17),Very Good,Good,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,0 Minutes,Yes,No,No,No,Yes,Yes,Yes,No,5,Very Satisfied,,Male,<$100
+Delhi,Good Air Quality,55+,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,10 to 14,Yes,Teen (15 to 17),Very Good,Very Good,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,55+,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,25 to 34,No,,Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,Yes,No,10,Somewhat Dissatisfied,More plants trees in more plan for heat wave,Male,I don't know
+Delhi,Good Air Quality,45 to 54,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,55+,Yes,Teen (15 to 17),Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,Yes,No,No,No,No,No,No,5,Very Satisfied,,Female,<$100
+Delhi,Good Air Quality,20 to 24,No,,Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,31-45 Minutes,No,No,No,No,No,No,No,No,10,Very Satisfied,,Male,<$100
+Delhi,Good Air Quality,55+,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,15 to 19,No,,Very Good,Good,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,No,Yes,No,No,No,No,5,Very Satisfied,,Female,$100 to $499
+Delhi,Good Air Quality,55+,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,20 to 24,Yes,Teen (15 to 17),Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Very Satisfied,,Male,I don't know
+Delhi,Good Air Quality,35 to 44,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,45 to 54,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,55+,Yes,Teen (15 to 17),Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,60+ Minutes,No,No,No,No,No,No,No,No,8,Somewhat Satisfied,"Cleanliness, proper disposal of garbage/trash",Male,$4000+
+Delhi,Good Air Quality,25 to 34,Yes,Toddler (1 to 4),Very Good,Good,No,No,Yes,No,No,No,No,No,No,No,No,16-30 Minutes,Yes,No,No,No,No,No,No,No,8,Somewhat Dissatisfied,Planting more trees,Male,$1500 to $4000
+Delhi,Good Air Quality,35 to 44,Yes,Pre-Teen (10 to 14),Ok,Ok,No,No,No,No,No,No,No,No,No,No,No,46-60 Minutes,No,No,No,No,No,No,No,No,5,Neutral,Plan more tress,Male,$100 to $499
+Delhi,Good Air Quality,55+,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,15 to 19,No,,Good,Good,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,60+ Minutes,Yes,No,Yes,No,Yes,No,Yes,No,5,Neutral,,Male,I don't know
+Delhi,Good Air Quality,15 to 19,Yes,Teen (15 to 17),Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,$4000+
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,20 to 24,Yes,Child (5 to 9),Very Good,Good,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,10,Very Satisfied,,Female,I don't know
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,25 to 34,Yes,Pre-Teen (10 to 14),Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Very Satisfied,,Female,$500 to $1499
+Delhi,Good Air Quality,55+,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,55+,Yes,Child (5 to 9),Good,Ok,Yes,No,Yes,No,No,No,No,No,No,No,No,31-45 Minutes,No,No,No,No,No,No,No,No,10,Somewhat Dissatisfied,plant more trees,Male,$100 to $499
+Delhi,Good Air Quality,35 to 44,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,55+,Yes,Child (5 to 9),Very Good,Very Good,Yes,No,No,No,No,No,No,No,Yes,Yes,No,1-15 Minutes,No,No,No,No,No,No,No,No,7,Neutral,Plant more trees or reforestation.,Female,$1500 to $4000
+Delhi,Good Air Quality,55+,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,35 to 44,Yes,Child (5 to 9),Good,Good,No,No,Yes,No,No,No,No,No,No,No,No,60+ Minutes,No,No,No,No,No,No,No,No,5,Neutral,Conducive community,Male,$100 to $499
+Delhi,Good Air Quality,35 to 44,Yes,Pre-Teen (10 to 14),Good,Good,No,No,Yes,No,No,No,No,No,No,No,No,60+ Minutes,No,No,No,No,No,Yes,No,No,5,Somewhat Satisfied,Plants a tree,Male,<$100
+Delhi,Good Air Quality,55+,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,35 to 44,Yes,Toddler (1 to 4),Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,31-45 Minutes,No,No,No,No,No,Yes,No,Yes,5,Neutral,More trees along the roads,Male,I don't know
+Delhi,Good Air Quality,55+,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,35 to 44,Yes,Pre-Teen (10 to 14),Ok,Good,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,60+ Minutes,Yes,No,No,Yes,Yes,Yes,No,Yes,5,Neutral,"Collect all garbage, plant more trees,",Male,$100 to $499
+Delhi,Good Air Quality,55+,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,55+,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,15 to 19,Yes,Teen (15 to 17),Good,Good,No,No,No,Yes,No,No,No,Yes,No,Yes,No,46-60 Minutes,No,No,No,No,No,Yes,No,No,0,Very Satisfied,,Male,I don't know
+Delhi,Good Air Quality,20 to 24,No,,Good,Very Bad,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,1-15 Minutes,No,No,No,No,No,Yes,No,Yes,5,Very Satisfied,,Female,$500 to $1499
+Delhi,Good Air Quality,10 to 14,Yes,Child (5 to 9),Very Good,Good,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,16-30 Minutes,Yes,Yes,No,No,Yes,Yes,No,No,1,Somewhat Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,15 to 19,Yes,Child (5 to 9),Very Good,Good,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,16-30 Minutes,No,No,No,Yes,Yes,Yes,Yes,Yes,0,Somewhat Satisfied,,Female,<$100
+Delhi,Good Air Quality,20 to 24,Yes,Pre-Teen (10 to 14),Very Good,Very Good,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,60+ Minutes,No,Yes,Yes,No,Yes,No,Yes,Yes,7,Very Satisfied,,Male,$100 to $499
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,55+,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,20 to 24,Yes,Child (5 to 9),Very Good,Good,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,1-15 Minutes,No,Yes,No,Yes,Yes,No,Yes,Yes,0,Very Satisfied,,Male,I don't know
+Delhi,Good Air Quality,15 to 19,No,,Very Good,Good,No,No,No,No,No,No,No,Yes,No,Yes,Yes,1-15 Minutes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,5,Somewhat Satisfied,,Female,<$100
+Delhi,Good Air Quality,55+,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,25 to 34,Yes,Infant (0),Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,0 Minutes,No,No,No,No,No,No,No,No,5,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,25 to 34,No,,Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0 Minutes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Very Satisfied,,Male,<$100
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,10 to 14,No,,Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,0 Minutes,No,No,No,No,No,No,No,No,10,Very Satisfied,,Male,<$100
+Delhi,Good Air Quality,25 to 34,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,25 to 34,Yes,Child (5 to 9),Good,Good,No,No,No,No,No,No,No,No,Yes,No,No,16-30 Minutes,No,No,No,Yes,No,Yes,No,Yes,5,Somewhat Satisfied,Making polluters accoutable,Male,I don't know
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,15 to 19,Yes,Toddler (1 to 4),Very Good,Bad,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Very Satisfied,Health education,Female,I don't know
+Delhi,Good Air Quality,45 to 54,Yes,Teen (15 to 17),Ok,Ok,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,60+ Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Somewhat Satisfied,,Male,$100 to $499
+Delhi,Good Air Quality,25 to 34,Yes,Toddler (1 to 4),Very Good,Good,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,Yes,0,Very Satisfied,,Female,<$100
+Delhi,Good Air Quality,35 to 44,Yes,Pre-Teen (10 to 14),Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,9,Neutral,Observe cleanliness,Female,I don't know
+Delhi,Good Air Quality,10 to 14,No,,Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,16-30 Minutes,Yes,No,Yes,Yes,Yes,No,No,Yes,1,Very Satisfied,,Male,I don't know
+Delhi,Good Air Quality,35 to 44,Yes,Teen (15 to 17),Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,60+ Minutes,No,No,No,No,No,No,No,No,0,Very Satisfied,,Male,$4000+
+Delhi,Good Air Quality,15 to 19,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,35 to 44,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,25 to 34,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,20 to 24,No,,Good,Ok,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,5,Somewhat Satisfied,more medicine for those sick due to pollution,Male,I don't know
+Delhi,Good Air Quality,25 to 34,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,15 to 19,Yes,Pre-Teen (10 to 14),Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,25 to 34,No,,Good,Good,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,Yes,Yes,Yes,Yes,No,No,No,Yes,5,Very Satisfied,,Male,$100 to $499
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,10 to 14,Yes,Pre-Teen (10 to 14),Bad,Good,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Neutral,,Female,$100 to $499
+Delhi,Good Air Quality,20 to 24,No,,Good,Very Good,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Neutral,,Male,<$100
+Delhi,Good Air Quality,55+,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,15 to 19,No,,Very Good,Good,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,10,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,25 to 34,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,25 to 34,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,20 to 24,Yes,Teen (15 to 17),Bad,Very Bad,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Somewhat Satisfied,,Male,$500 to $1499
+Delhi,Good Air Quality,25 to 34,Yes,Infant (0),Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Neutral,,Male,I don't know
+Delhi,Good Air Quality,25 to 34,No,,Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,5,Somewhat Satisfied,,Other/ Prefer not to say,I don't know
+Delhi,Good Air Quality,35 to 44,No,,Ok,Ok,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,60+ Minutes,No,No,No,No,No,Yes,No,No,7,Somewhat Satisfied,,Male,I don't know
+Delhi,Good Air Quality,15 to 19,No,,Bad,Ok,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,0 Minutes,Yes,Yes,No,No,Yes,Yes,No,Yes,10,Somewhat Dissatisfied,,Female,<$100
+Delhi,Good Air Quality,10 to 14,No,,Bad,Ok,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,0 Minutes,Yes,Yes,No,No,Yes,Yes,No,Yes,10,Somewhat Dissatisfied,,Female,<$100
+Delhi,Good Air Quality,10 to 14,Yes,Child (5 to 9),Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Very Satisfied,,Male,<$100
+Delhi,Good Air Quality,10 to 14,No,,Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Very Satisfied,,Male,<$100
+Delhi,Good Air Quality,10 to 14,No,,Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Very Satisfied,,Male,<$100
+Delhi,Good Air Quality,10 to 14,No,,Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Very Satisfied,,Male,<$100
+Delhi,Good Air Quality,10 to 14,No,,Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Very Satisfied,,Male,<$100
+Delhi,Good Air Quality,25 to 34,No,,Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Very Satisfied,,Male,<$100
+Delhi,Good Air Quality,15 to 19,Yes,Teen (15 to 17),Ok,Ok,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,5,Neutral,,Male,$500 to $1499
+Delhi,Good Air Quality,35 to 44,Yes,,Ok,Ok,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,6,Neutral,,Male,$500 to $1499
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,7,Neutral,,Male,$500 to $1499
+Delhi,Good Air Quality,35 to 44,Yes,,Ok,Ok,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,8,Neutral,,Male,$500 to $1499
+Delhi,Good Air Quality,10 to 14,No,,Ok,Ok,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,9,Neutral,,Male,$500 to $1499
+Delhi,Good Air Quality,15 to 19,Yes,Toddler (1 to 4),Very Good,Bad,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,60+ Minutes,Yes,No,Yes,No,Yes,No,Yes,No,5,Neutral,,Female,I don't know
+Delhi,Good Air Quality,45 to 54,Yes,Infant (0),Good,Ok,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,0,Very Satisfied,,Female,$100 to $499
+Delhi,Good Air Quality,15 to 19,No,,Good,Ok,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,1,Very Satisfied,,Female,$100 to $499
+Delhi,Good Air Quality,10 to 14,No,,Good,Ok,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,2,Very Satisfied,,Female,$100 to $499
+Delhi,Good Air Quality,10 to 14,No,,Good,Ok,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,No,No,No,No,No,No,No,No,3,Very Satisfied,,Female,$100 to $499
+Delhi,Good Air Quality,25 to 34,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,0,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,10 to 14,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,1,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,15 to 19,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,2,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,10 to 14,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,35 to 44,Yes,Teen (15 to 17),Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Very Satisfied,,Male,I don't know
+Delhi,Good Air Quality,25 to 34,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,35 to 44,Yes,Teen (15 to 17),Good,Good,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,1-15 Minutes,Yes,No,No,No,Yes,No,Yes,Yes,5,Neutral,,Female,I don't know
+Delhi,Good Air Quality,15 to 19,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,15 to 19,Yes,Teen (15 to 17),Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,16-30 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,10 to 14,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,10 to 14,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,15 to 19,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,45 to 54,Yes,Infant (0),Very Bad,Good,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,31-45 Minutes,No,No,No,No,Yes,No,No,Yes,5,Neutral,,Male,$100 to $499
+Delhi,Good Air Quality,15 to 19,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,25 to 34,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,10 to 14,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,20 to 24,Yes,Toddler (1 to 4),Very Good,Ok,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,16-30 Minutes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Neutral,,Female,I don't know
+Delhi,Good Air Quality,35 to 44,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,5 to 9,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,15 to 19,No,,Very Good,Good,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,60+ Minutes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,4,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,15 to 19,Yes,Teen (15 to 17),Very Good,Very Good,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,0 Minutes,Yes,No,Yes,No,Yes,No,Yes,No,1,Very Satisfied,,Male,<$100
+Delhi,Good Air Quality,15 to 19,Yes,Toddler (1 to 4),Very Good,Very Good,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,1-15 Minutes,No,Yes,No,Yes,No,Yes,Yes,No,4,Somewhat Satisfied,,Male,$100 to $499
+Delhi,Good Air Quality,10 to 14,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,15 to 19,Yes,Teen (15 to 17),Very Bad,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60+ Minutes,No,No,Yes,Yes,Yes,Yes,No,Yes,0,Very Satisfied,,Female,<$100
+Delhi,Good Air Quality,20 to 24,Yes,Toddler (1 to 4),Very Good,Very Good,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,No,No,No,No,No,No,No,No,0,Very Satisfied,,Other/ Prefer not to say,<$100
+Delhi,Good Air Quality,10 to 14,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,20 to 24,No,,Good,Ok,No,No,No,No,No,No,No,No,No,No,Yes,1-15 Minutes,Yes,No,No,No,No,No,No,No,6,Very Satisfied,,Female,I don't know
+Delhi,Good Air Quality,25 to 34,Yes,Infant (0),Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,20 to 24,Yes,Toddler (1 to 4),Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,60+ Minutes,No,No,No,No,No,No,No,No,0,Neutral,,Male,I don't know
+Delhi,Good Air Quality,35 to 44,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,35 to 44,Yes,Pre-Teen (10 to 14),Very Good,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Very Satisfied,,Female,<$100
+Delhi,Good Air Quality,20 to 24,Yes,Toddler (1 to 4),Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,15 to 19,Yes,Child (5 to 9),Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,0 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,$500 to $1499
+Delhi,Good Air Quality,55+,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,15 to 19,Yes,Toddler (1 to 4),Ok,Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,46-60 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Very Satisfied,,Male,<$100
+Delhi,Good Air Quality,10 to 14,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,25 to 34,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,35 to 44,Yes,Teen (15 to 17),Very Good,Very Good,No,No,No,No,No,No,No,No,No,No,No,46-60 Minutes,No,No,No,No,No,No,No,No,10,Very Satisfied,,Female,I don't know
+Delhi,Good Air Quality,25 to 34,Yes,Teen (15 to 17),Very Good,Ok,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-15 Minutes,No,No,No,No,No,No,No,No,0,Neutral,,Male,<$100
+Delhi,Good Air Quality,10 to 14,No,,Very Good,Good,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1-15 Minutes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,25 to 34,Yes,Toddler (1 to 4),Very Good,Very Good,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,60+ Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Very Satisfied,,Male,$1500 to $4000
+Delhi,Good Air Quality,25 to 34,Yes,Toddler (1 to 4),Good,Ok,No,No,No,No,No,No,No,No,No,No,No,1-15 Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Somewhat Satisfied,,Female,<$100
+Delhi,Good Air Quality,15 to 19,No,,Good,Good,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,60+ Minutes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,Somewhat Satisfied,,Male,I don't know

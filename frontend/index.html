@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Daily Breath — Delhi Air Quality Report</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Paper texture overlay -->
+    <div class="paper-texture"></div>
+
+    <div class="newspaper">
+        <!-- Masthead -->
+        <header class="masthead">
+            <div class="masthead-rule"></div>
+            <div class="masthead-top">
+                <span class="edition">MORNING EDITION</span>
+                <h1 class="paper-name">The Daily Breath</h1>
+                <span class="price">FREE</span>
+            </div>
+            <div class="masthead-tagline">Your Trusted Source for Air Quality Intelligence Since 2024</div>
+            <div class="masthead-info">
+                <span class="location">NEW DELHI, INDIA</span>
+                <span class="date" id="current-date"></span>
+                <span class="volume">VOL. I, NO. 365</span>
+            </div>
+            <div class="masthead-rule thick"></div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="content">
+            <!-- Lead Story - Input Form -->
+            <section class="lead-story">
+                <article class="input-article">
+                    <h2 class="section-header">PERSONALIZED FORECAST</h2>
+                    <p class="article-lead">
+                        <span class="drop-cap">T</span>ell us about yourself to receive a personalized air quality health assessment tailored to your specific risk factors and circumstances.
+                    </p>
+
+                    <div class="form-columns">
+                        <div class="form-field">
+                            <label for="age-input">Your Age</label>
+                            <input type="number" id="age-input" placeholder="Years" min="1" max="120">
+                        </div>
+                        <div class="form-field">
+                            <label for="gender-input">Gender</label>
+                            <select id="gender-input">
+                                <option value="">Select</option>
+                                <option value="0">Female</option>
+                                <option value="1">Male</option>
+                                <option value="2">Other</option>
+                            </select>
+                        </div>
+                        <div class="form-field">
+                            <label for="parent-input">Parent?</label>
+                            <select id="parent-input">
+                                <option value="">Select</option>
+                                <option value="1">Yes</option>
+                                <option value="0">No</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <button id="predict-btn" onclick="predictAQI()">
+                        <span class="btn-text">FETCH TODAY'S REPORT</span>
+                        <span class="btn-arrow">→</span>
+                    </button>
+                </article>
+            </section>
+
+            <!-- Loading State -->
+            <div id="loading" class="loading-edition hidden">
+                <div class="printing-press">
+                    <div class="press-text">STOP THE PRESSES!</div>
+                    <div class="press-subtext">Fetching live atmospheric data...</div>
+                    <div class="press-animation">
+                        <span>▰</span><span>▰</span><span>▰</span><span>▰</span><span>▰</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Results Section -->
+            <section id="results" class="results-edition hidden">
+                <!-- BREAKING NEWS - AQI -->
+                <div class="breaking-news">
+                    <div class="breaking-banner">
+                        <span class="breaking-label">✦ BREAKING NEWS ✦</span>
+                    </div>
+                    <h1 class="aqi-headline">
+                        DELHI AIR QUALITY INDEX:
+                        <span class="aqi-number" id="aqi-value">---</span>
+                    </h1>
+                    <p class="aqi-deck" id="aqi-category">Awaiting data...</p>
+                    <div class="aqi-scale-bar">
+                        <div class="scale-segment good">0-50</div>
+                        <div class="scale-segment moderate">51-100</div>
+                        <div class="scale-segment sensitive">101-150</div>
+                        <div class="scale-segment unhealthy">151-200</div>
+                        <div class="scale-segment very-unhealthy">201-300</div>
+                        <div class="scale-segment hazardous">300+</div>
+                        <div class="scale-indicator" id="scale-indicator"></div>
+                    </div>
+                </div>
+
+                <div class="column-layout">
+                    <!-- Left Column - Pollutants -->
+                    <div class="column left-column">
+                        <h3 class="column-header">ATMOSPHERIC COMPOSITION</h3>
+                        <div class="pollutant-table">
+                            <div class="pollutant-row header-row">
+                                <span>POLLUTANT</span>
+                                <span>READING</span>
+                                <span>STATUS</span>
+                            </div>
+                            <div class="pollutant-row" id="row-pm25">
+                                <span class="pollutant-name">PM2.5</span>
+                                <span class="pollutant-value"><span id="pm25">--</span> μg/m³</span>
+                                <span class="pollutant-status" id="pm25-status">—</span>
+                            </div>
+                            <div class="pollutant-row" id="row-pm10">
+                                <span class="pollutant-name">PM10</span>
+                                <span class="pollutant-value"><span id="pm10">--</span> μg/m³</span>
+                                <span class="pollutant-status" id="pm10-status">—</span>
+                            </div>
+                            <div class="pollutant-row" id="row-no2">
+                                <span class="pollutant-name">NO₂</span>
+                                <span class="pollutant-value"><span id="no2">--</span> μg/m³</span>
+                                <span class="pollutant-status" id="no2-status">—</span>
+                            </div>
+                            <div class="pollutant-row" id="row-so2">
+                                <span class="pollutant-name">SO₂</span>
+                                <span class="pollutant-value"><span id="so2">--</span> μg/m³</span>
+                                <span class="pollutant-status" id="so2-status">—</span>
+                            </div>
+                            <div class="pollutant-row" id="row-co">
+                                <span class="pollutant-name">CO</span>
+                                <span class="pollutant-value"><span id="co">--</span> μg/m³</span>
+                                <span class="pollutant-status" id="co-status">—</span>
+                            </div>
+                            <div class="pollutant-row" id="row-o3">
+                                <span class="pollutant-name">O₃</span>
+                                <span class="pollutant-value"><span id="o3">--</span> μg/m³</span>
+                                <span class="pollutant-status" id="o3-status">—</span>
+                            </div>
+                        </div>
+
+                        <!-- Weather Box -->
+                        <div class="weather-box">
+                            <h4 class="weather-header">TODAY'S WEATHER</h4>
+                            <div class="weather-grid">
+                                <div class="weather-item">
+                                    <span class="weather-icon">☉</span>
+                                    <span class="weather-val" id="temp">--</span>°C
+                                </div>
+                                <div class="weather-item">
+                                    <span class="weather-icon">◇</span>
+                                    <span class="weather-val" id="humidity">--</span>%
+                                </div>
+                                <div class="weather-item">
+                                    <span class="weather-icon">◎</span>
+                                    <span class="weather-val" id="pressure">--</span> hPa
+                                </div>
+                                <div class="weather-item">
+                                    <span class="weather-icon">≋</span>
+                                    <span class="weather-val" id="wind-speed">--</span> m/s
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Right Column - Health Risks -->
+                    <div class="column right-column">
+                        <h3 class="column-header">HEALTH ADVISORY</h3>
+                        <p class="advisory-intro">Based on current conditions and your personal profile, our medical correspondents report the following risk assessment:</p>
+
+                        <div class="health-risks-list" id="health-risks-list">
+                            <!-- Dynamically populated -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Recommendations - Full Width -->
+                <div class="recommendations-section">
+                    <div class="rec-header">
+                        <span class="rec-icon">☞</span>
+                        <h3>EDITOR'S RECOMMENDATIONS</h3>
+                    </div>
+                    <div class="rec-content" id="recommendations-text">
+                        Awaiting analysis...
+                    </div>
+                    <div class="rec-footer">
+                        <em>— The Editorial Board</em>
+                    </div>
+                </div>
+
+                <!-- Footer Quote -->
+                <div class="edition-footer">
+                    <div class="footer-rule"></div>
+                    <p class="footer-quote">"The nation that destroys its soil destroys itself." — Franklin D. Roosevelt</p>
+                    <div class="footer-credits">
+                        <span>Data: OpenWeatherMap API</span>
+                        <span>•</span>
+                        <span>Analysis: Random Forest + XGBoost Models</span>
+                        <span>•</span>
+                        <span>Report Generated: <span id="report-time"></span></span>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Newspaper Footer -->
+        <footer class="newspaper-footer">
+            <div class="footer-rule thick"></div>
+            <p>© 2024 The Daily Breath. All atmospheric rights reserved. Breathe responsibly.</p>
+        </footer>
+    </div>
+
+    <script src="config.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
