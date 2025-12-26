@@ -9,17 +9,12 @@
 const config = {
     // API endpoint for predictions
     API_URL: (() => {
-        // Check for environment variable (Vercel sets this)
-        if (typeof process !== 'undefined' && process.env && process.env.REACT_APP_API_URL) {
-            return process.env.REACT_APP_API_URL;
+        // Production: Use Railway backend when not on localhost
+        if (window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
+            return 'https://aqithedailybreath-production.up.railway.app';
         }
 
-        // Check for global window variable (alternative method)
-        if (window.__API_URL__) {
-            return window.__API_URL__;
-        }
-
-        // Default to localhost for development
+        // Development: Use localhost
         return 'http://localhost:5000';
     })(),
 

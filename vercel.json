@@ -2,9 +2,6 @@
   "buildCommand": "echo 'Frontend is static HTML/CSS/JS'",
   "outputDirectory": "frontend",
   "public": true,
-  "env": {
-    "REACT_APP_API_URL": "@api_url"
-  },
   "rewrites": [
     {
       "source": "/(.*)",
