@@ -1,7 +1,6 @@
 {
-  "buildCommand": "echo 'Frontend is static HTML/CSS/JS'",
-  "outputDirectory": "frontend",
-  "public": true,
+  "buildCommand": "cp -r frontend public",
+  "outputDirectory": "public",
   "rewrites": [
     {
       "source": "/(.*)",
