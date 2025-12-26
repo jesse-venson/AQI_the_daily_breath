@@ -1,8 +1,3 @@
-// ============================================
-// THE DAILY BREATH — Newspaper Edition Script
-// ============================================
-
-// Set current date in newspaper format
 function setCurrentDate() {
     const options = {
         weekday: 'long',
@@ -15,7 +10,6 @@ function setCurrentDate() {
     document.getElementById('current-date').textContent = formatted;
 }
 
-// Get AQI Category and styling
 function getAQIInfo(aqi) {
     if (aqi <= 50) return {
         category: 'Good — Safe for all outdoor activities',
@@ -49,7 +43,6 @@ function getAQIInfo(aqi) {
     };
 }
 
-// Get pollutant status
 function getPollutantStatus(pollutant, value) {
     const thresholds = {
         PM25: [30, 60, 90, 120],
@@ -73,7 +66,6 @@ function getPollutantStatus(pollutant, value) {
     return { text: levels[4], class: classes[4] };
 }
 
-// Typewriter effect for AQI number
 function typewriterNumber(element, number, duration = 1500) {
     const start = performance.now();
     const startValue = 0;
@@ -81,8 +73,6 @@ function typewriterNumber(element, number, duration = 1500) {
     function update(currentTime) {
         const elapsed = currentTime - start;
         const progress = Math.min(elapsed / duration, 1);
-
-        // Ease out cubic
         const easeOut = 1 - Math.pow(1 - progress, 3);
         const current = Math.round(startValue + (number * easeOut));
 
@@ -96,13 +86,11 @@ function typewriterNumber(element, number, duration = 1500) {
     requestAnimationFrame(update);
 }
 
-// Main prediction function
 async function predictAQI() {
     const age = document.getElementById('age-input').value;
     const genderEnc = document.getElementById('gender-input').value;
     const parentEnc = document.getElementById('parent-input').value;
 
-    // Validation
     if (!age || age < 1 || age > 120) {
         alert('ATTENTION READER: Please enter a valid age (1-120)');
         return;
@@ -116,7 +104,6 @@ async function predictAQI() {
         return;
     }
 
-    // Show loading
     document.getElementById('loading').classList.remove('hidden');
     document.getElementById('results').classList.add('hidden');
 
@@ -147,27 +134,22 @@ async function predictAQI() {
     }
 }
 
-// Display results in newspaper format
 function displayResults(data) {
     const results = document.getElementById('results');
     results.classList.remove('hidden');
 
-    // AQI Number with typewriter effect
     const aqiEl = document.getElementById('aqi-value');
     typewriterNumber(aqiEl, data.aqi, 2000);
 
-    // AQI Category and indicator
     const aqiInfo = getAQIInfo(data.aqi);
     document.getElementById('aqi-category').textContent = aqiInfo.category;
     document.getElementById('aqi-category').style.color = aqiInfo.color;
 
-    // Position the scale indicator
     const indicator = document.getElementById('scale-indicator');
     setTimeout(() => {
         indicator.style.left = `calc(${aqiInfo.position}% - 8px)`;
     }, 100);
 
-    // Pollutants
     const pollutants = [
         { id: 'pm25', key: 'PM25', value: data.pollutants.PM25 },
         { id: 'pm10', key: 'PM10', value: data.pollutants.PM10 },
@@ -187,19 +169,15 @@ function displayResults(data) {
         }, index * 100);
     });
 
-    // Weather
     document.getElementById('temp').textContent = data.weather.temp;
     document.getElementById('humidity').textContent = data.weather.humidity;
     document.getElementById('pressure').textContent = data.weather.pressure;
     document.getElementById('wind-speed').textContent = data.weather.wind_speed;
 
-    // Health Risks
     displayHealthRisks(data.health_risks);
 
-    // Recommendations
     document.getElementById('recommendations-text').textContent = data.recommendations;
 
-    // Report time
     const now = new Date();
     document.getElementById('report-time').textContent = now.toLocaleTimeString('en-US', {
         hour: '2-digit',
